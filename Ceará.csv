@@ -1,0 +1,27 @@
+﻿ID-Produto;Produto;Categoria;Segmento;Fabricante;Loja;Cidade;Estado;Vendedor;ID-Vendedor;Data Venda;ValorVenda
+SKU-0000042;Notebook Dell 8 GB;Eletrônicos;Corporativo;Dell;V7654;Fortaleza;Ceará;Maria Fernandes;1001;01/03/2012;1676
+SKU-0000049;Notebook Dell 8 GB;Eletrônicos;Corporativo;Dell;V7654;Fortaleza;Ceará;Fernando Zambrini;1007;01/10/2012;4943
+SKU-0000057;Desktop HP 16 GB;Eletrônicos;Corporativo;HP;V7654;Fortaleza;Ceará;Josias Silva;1006;02/06/2013;2856
+SKU-0000071;Micro-Ondas;Eletrodomésticos;Doméstico;Panasonic;V7654;Fortaleza;Ceará;Ana Teixeira;1009;01/08/2012;4039
+SKU-0000092;Aspirador;Eletroportáteis;Doméstico;Britânia;V7654;Fortaleza;Ceará;Mateus Gonçalves;1003;02/05/2013;1949
+SKU-0000139;Geladeira Duplex;Eletrodomésticos;Doméstico;Brastemp;V7654;Fortaleza;Ceará;Josias Silva;1006;12/03/2013;461
+SKU-0000140;Samsung Galaxy 8;Celulares;Corporativo;Samsung;V7654;Fortaleza;Ceará;Mateus Gonçalves;1003;13/03/2013;1863
+SKU-0000144;Geladeira Duplex;Eletrodomésticos;Doméstico;Brastemp;V7654;Fortaleza;Ceará;Fernando Zambrini;1007;17/05/2013;2691
+SKU-0000145;Geladeira Duplex;Eletrodomésticos;Doméstico;Brastemp;V7654;Fortaleza;Ceará;Mateus Gonçalves;1003;18/05/2013;1521
+SKU-0000149;Geladeira Duplex;Eletrodomésticos;Doméstico;Brastemp;V7654;Fortaleza;Ceará;Maria Fernandes;1001;22/07/2013;2635
+SKU-0000150;Geladeira Duplex;Eletrodomésticos;Doméstico;Brastemp;V7654;Fortaleza;Ceará;Ana Teixeira;1009;23/09/2013;1323
+SKU-0000151;Samsung Galaxy 8;Celulares;Corporativo;Samsung;V7654;Fortaleza;Ceará;Artur Moreira;1004;24/10/2013;2323
+SKU-0000153;Geladeira Duplex;Eletrodomésticos;Doméstico;Brastemp;V7654;Fortaleza;Ceará;Josias Silva;1006;26/11/2013;4341
+SKU-0000195;Aspirador;Eletroportáteis;Doméstico;Britânia;V7654;Fortaleza;Ceará;André Pereira;1002;01/03/2014;1731
+SKU-0000202;Fritadeira;Eletroportáteis;Doméstico;Arno;V7654;Fortaleza;Ceará;Josias Silva;1006;01/10/2014;419
+SKU-0000210;Fritadeira;Eletroportáteis;Doméstico;Arno;V7654;Fortaleza;Ceará;Fernando Zambrini;1007;02/06/2015;3273
+SKU-0000224;Grill;Eletrodomésticos;Doméstico;Consul;V7654;Fortaleza;Ceará;André Pereira;1002;01/08/2014;3829
+SKU-0000245;Ar Condicionado;Eletrodomésticos;Industrial;Samsung;V7654;Fortaleza;Ceará;Maria Fernandes;1001;02/05/2015;4236
+SKU-0000292;Geladeira Duplex;Eletrodomésticos;Doméstico;Consul;V7654;Fortaleza;Ceará;Artur Moreira;1004;12/03/2015;2580
+SKU-0000293;Geladeira Duplex;Eletrodomésticos;Doméstico;Consul;V7654;Fortaleza;Ceará;Rodrigo Fagundes;1005;13/03/2015;531
+SKU-0000297;Geladeira Duplex;Eletrodomésticos;Doméstico;Consul;V7654;Fortaleza;Ceará;André Pereira;1002;17/05/2015;2825
+SKU-0000298;Geladeira Duplex;Eletrodomésticos;Doméstico;Consul;V7654;Fortaleza;Ceará;André Pereira;1002;18/05/2015;3992
+SKU-0000302;Morotola Moto G5;Celulares;Doméstico;Motorola;V7654;Fortaleza;Ceará;André Pereira;1002;22/07/2015;4609
+SKU-0000303;Geladeira Duplex;Eletrodomésticos;Doméstico;Consul;V7654;Fortaleza;Ceará;Mateus Gonçalves;1003;23/09/2015;3282
+SKU-0000304;Geladeira Duplex;Eletrodomésticos;Doméstico;Consul;V7654;Fortaleza;Ceará;Mateus Gonçalves;1003;24/10/2015;4364
+SKU-0000306;Geladeira Duplex;Eletrodomésticos;Doméstico;Consul;V7654;Fortaleza;Ceará;Artur Moreira;1004;26/11/2015;59
